@@ -1,10 +1,6 @@
 def ada():
     first_name = "AdA"
     last_name = "LoVeLAce"
-    
-    full_name= f"{first_name} {last_name}"  #Juntar las dos variables
-    print (full_name)
-    #AdA LoVeLAce
 
     print (full_name.lower())
     #ada lovelace
